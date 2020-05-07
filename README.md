@@ -1,2 +1,2 @@
-# Vasicek_CIR_Models_Python
-Pricing and Simulating in Python Zero Coupon Bonds with Vasicek and Cox Ingersoll Ross short term interest rate models
+# Vasicek_CIR_HoLee_Hull_White_Models_Python
+Pricing and Simulating in Interest Rate Instruments with Vasicek, Cox Ingersoll Ross, Ho Lee and Hull White short term interest rate models
